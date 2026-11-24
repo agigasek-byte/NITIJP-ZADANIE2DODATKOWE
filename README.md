@@ -18,3 +18,9 @@ W każdym pliku znajduje się porównanie 5 najlepszych graczy gry CS2:
 -Ropz\
 -M0NESY\
 -sh1ro\
+Są oceniani pod względem:
+Wygrane Majory\
+MVP\
+Elo na faceit\
+Obecna drużyna
+
