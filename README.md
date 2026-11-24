@@ -45,11 +45,24 @@ Są oceniani pod względem:
 
 ## XSD
 
-
+- Bezpośrednio połączony z XML.
+- Odpowiada z za nadzór użytych typów zmiennych.
+- Wydaje się mało przejrzysty przez zagnieżdżone funkcje.
+- Warstwowy.
 
 ## Porównanie danych
 
+|Cecha | CSV | JSON | XML i XSD|
+| :--- | :--- | :--- | :--- |
+|**Struktura**| Wierszowa | Obiektowa/Kolumnowa | Drzewo|
+|**Przejrzystość**|Bardzo intuicyjne|Przejrzyste|Zagnieżdżone|
+|**Sposób czytania**|tabela|Edytor kodu|Walidator online|
 
 
 ## Podsumowanie
+
+Tą samą treść można utworzyć w różnych programach, które zawierają plusy i minusy:
+- **CSV** - najlepszy do prostych tabel,
+- **JSON** - najlepszy, gdy dane są obiektowe, 
+- **XML i XSD** - najlepszy, gdy potrzeba kontroli nad treścią.
 
