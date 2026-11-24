@@ -27,7 +27,7 @@ Są oceniani pod względem:
 
 ## CSV
 
-Program wydaje się bardzo intuicyjny i wygodny do tworzenia tabel z danymi. \ 
+Program wydaje się bardzo intuicyjny i wygodny do tworzenia tabel z danymi.
 Do oddzielenia poszczególnych pól wykorzystuje się przecinek.
 
 ## JSON
