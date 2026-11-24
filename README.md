@@ -39,7 +39,9 @@ Są oceniani pod względem:
 
 ## XML
 
-
+- Budowa podobna do **HTML**.
+- Struktura podobna do drzewa.
+- Treść się rozgałęzia z jednego trzonu.
 
 ## XSD
 
