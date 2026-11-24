@@ -1,0 +1,37 @@
+[
+  {
+    "gracz": "ZywOo",
+    "wygrane_majory": 3,
+    "mvp_hltv": 34,
+    "elo_faceit": "~4000 (zaokrąglone)",
+    "obecna_druzyna": "Team Vitality"
+  },
+  {
+    "gracz": "donk",
+    "wygrane_majory": 1,
+    "mvp_hltv": 13,
+    "elo_faceit": "~5300",
+    "obecna_druzyna": "Team Spirit"
+  },
+  {
+    "gracz": "ropz",
+    "wygrane_majory": 3,
+    "mvp_hltv": 6,
+    "elo_faceit": null,
+    "obecna_druzyna": "Team Vitality"
+  },
+  {
+    "gracz": "m0NESY",
+    "wygrane_majory": 1,
+    "mvp_hltv": 7,
+    "elo_faceit": "~4300",
+    "obecna_druzyna": "Team Falcons"
+  },
+  {
+    "gracz": "sh1ro",
+    "wygrane_majory": 1,
+    "mvp_hltv": 4,
+    "elo_faceit": "~3800",
+    "obecna_druzyna": "Team Spirit"
+  }
+]
