@@ -20,10 +20,10 @@ W każdym pliku znajduje się porównanie 5 najlepszych graczy gry CS2:\
 - sh1ro
   
 Są oceniani pod względem:\
-Wygrane Majory\
-MVP\
-Elo na faceit\
-Obecna drużyna
+- Wygrane Majory
+- MVP
+- Elo na faceit
+- Obecna drużyna
 
 ## CSV
 
@@ -45,5 +45,5 @@ Program wydaje się bardzo intuicyjny i wygodny do tworzenia tabel z danymi.\ Do
 
 
 
-##Podsumowanie
+## Podsumowanie
 
