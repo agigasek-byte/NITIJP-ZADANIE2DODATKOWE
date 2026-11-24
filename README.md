@@ -13,4 +13,8 @@
 ##Temat repozytorium
 
 W każdym pliku znajduje się porównanie 5 najlepszych graczy gry CS2:
->[ZyWoo]
+-ZyWoo
+-Donk
+-Ropz
+-M0NESY
+-sh1ro
