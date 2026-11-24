@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gracze xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="top5-cs2.xsd">
+  <gracz>
+    <nazwa>ZywOo</nazwa>
+    <wygrane_majory>3</wygrane_majory>
+    <mvp_hltv>34</mvp_hltv>
+    <elo_faceit>~4000 (zaokrąglone)</elo_faceit>
+    <obecna_druzyna>Team Vitality</obecna_druzyna>
+  </gracz>
+  <gracz>
+    <nazwa>donk</nazwa>
+    <wygrane_majory>1</wygrane_majory>
+    <mvp_hltv>13</mvp_hltv>
+    <elo_faceit>~5300</elo_faceit>
+    <obecna_druzyna>Team Spirit</obecna_druzyna>
+  </gracz>
+  <gracz>
+    <nazwa>ropz</nazwa>
+    <wygrane_majory>3</wygrane_majory>
+    <mvp_hltv>6</mvp_hltv>
+    <elo_faceit xsi:nil="true"/>
+    <obecna_druzyna>Team Vitality</obecna_druzyna>
+  </gracz>
+  <gracz>
+    <nazwa>m0NESY</nazwa>
+    <wygrane_majory>1</wygrane_majory>
+    <mvp_hltv>7</mvp_hltv>
+    <elo_faceit>~4300</elo_faceit>
+    <obecna_druzyna>Team Falcons</obecna_druzyna>
+  </gracz>
+  <gracz>
+    <nazwa>sh1ro</nazwa>
+    <wygrane_majory>1</wygrane_majory>
+    <mvp_hltv>4</mvp_hltv>
+    <elo_faceit>~3800</elo_faceit>
+    <obecna_druzyna>Team Spirit</obecna_druzyna>
+  </gracz>
+</gracze>
