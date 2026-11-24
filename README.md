@@ -27,12 +27,15 @@ Są oceniani pod względem:
 
 ## CSV
 
-Program wydaje się bardzo intuicyjny i wygodny do tworzenia tabel z danymi.
-Do oddzielenia poszczególnych pól wykorzystuje się przecinek.
+- Program wydaje się bardzo intuicyjny i wygodny do tworzenia tabel z danymi.
+- Do oddzielenia poszczególnych pól wykorzystuje się przecinek.
 
 ## JSON
 
-
+- Program trochę bardziej skomplikowany od csv.
+- Nadal dość intuicyjny.
+- Największy problem stwarza powtarzanie tagów.
+- Zamiast pracować wierszami jak w csv, tworzy się kolumnami.
 
 ## XML
 
